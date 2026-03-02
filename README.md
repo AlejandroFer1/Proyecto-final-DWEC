@@ -1,6 +1,6 @@
 # Proyecto Api Jujutsu Kaisen
 
-# Alejandro Fernández Martín, Izan Eras Carrasco y Enrique Manrique Ruiz
+# Alejandro Fernández Martín, Izan Heras Carrasco y Enrique Manrique Ruiz
 
 ## Objetivos
 
